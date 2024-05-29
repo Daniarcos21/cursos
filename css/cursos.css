@@ -1,0 +1,23 @@
+body {
+   
+    background-color: deepskyblue;
+    
+}
+
+
+
+
+.container{    
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.871);
+    padding: 10px;
+    margin: 50px auto;
+
+}
+
+.navbar {
+
+    width: 100%; /* Asegura que la barra de menú ocupe todo el ancho de la ventana del navegador */
+    z-index: 1000; /* Asegura que la barra de menú esté por encima de otros elementos */
+    /* Agrega cualquier otro estilo necesario */
+}

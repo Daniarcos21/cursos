@@ -1,0 +1,33 @@
+
+.dropdown-menu{
+    position: relative;
+    padding: 20px;
+    font-size: 30px;
+    width: 20%;
+    left: 70%;
+    top: 100%;
+    border-radius: 5px;
+    
+    border-color: rgb(0, 0, 0);
+}
+.dropdown-menu :hover{
+    background-color: rgb(76, 98, 228);
+}
+
+@media (max-width: 800px){
+    .dropdown-menu{
+        font-size: 15px;
+    }
+}
+
+.dropdown-menu .btn{
+    width: 100%;
+    height: auto;
+}
+
+
+/* css de procesar_registro_repartdor.php */
+
+.panel-admi{
+    font-size: 20px;
+}
